@@ -21,5 +21,5 @@ $ npm start
 
 H:\MongoDB\mongodb\bin
 
-m1lkyw@y64
+
 ```
